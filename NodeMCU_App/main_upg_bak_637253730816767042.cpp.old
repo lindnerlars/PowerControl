@@ -1,0 +1,18 @@
+/*
+ * NodeMCU_App.cpp
+ *
+ * Created: 18/05/2020 04:30:28
+ * Author : Lars
+ */ 
+
+#include <avr/io.h>
+
+
+int main(void)
+{
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
+
